@@ -1,0 +1,10 @@
+body,
+.form-control {
+  font-size: 0.8rem;
+}
+
+.hetf2 {
+  border-bottom: 2px solid #bbe2ff;
+  padding: 15px 0;
+  margin-bottom: 20px;
+}
